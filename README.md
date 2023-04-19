@@ -6,7 +6,6 @@ It also contains references to other repositories' documentation.
 ## Table of Contents
 
 ### Meta documentation
-The following are 
 
 - [Contributor & Reviewer Guide](https://github.com/mage-os/meta/blob/main/docs/contributor-and-reviewer-guide.md)
 
